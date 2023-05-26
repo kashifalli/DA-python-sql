@@ -1,4 +1,5 @@
 .env
+env/
 /dash_01
 /first_try_nb.ipynb
 /first_try.py
